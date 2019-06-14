@@ -14,7 +14,7 @@ class Source_ECB extends Source_Remote {
 
 	const CACHE_KEY = 'openbuildings-monetary-ecb';
 
-	const API_URL = 'http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml';
+	const API_URL = 'https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml';
 
 	const XML_NAMESPACE = 'ecb';
 
