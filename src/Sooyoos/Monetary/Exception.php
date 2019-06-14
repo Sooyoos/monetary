@@ -1,6 +1,6 @@
 <?php
 
-namespace OpenBuildings\Monetary;
+namespace Sooyoos\Monetary;
 
 /**
  * @author Haralan Dobrev <hdobrev@despark.com>

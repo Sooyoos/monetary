@@ -1,6 +1,6 @@
 <?php
 
-namespace OpenBuildings\Monetary;
+namespace Sooyoos\Monetary;
 
 use Desarrolla2\Cache as DCache;
 use Desarrolla2\Cache\Adapter as DCache_Adapter;

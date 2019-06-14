@@ -1,6 +1,6 @@
 <?php
 
-namespace OpenBuildings\Monetary;
+namespace Sooyoos\Monetary;
 
 /**
  * Fetch exchange rates from European Central Bank

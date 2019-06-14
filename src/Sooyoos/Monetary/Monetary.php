@@ -1,6 +1,6 @@
 <?php
 
-namespace OpenBuildings\Monetary;
+namespace Sooyoos\Monetary;
 
 /**
  * @author Yasen Yanev <yasen@openbuildings.com>
