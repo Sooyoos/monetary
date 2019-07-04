@@ -31,7 +31,7 @@ Basic Usage
 Use the namespace:
 
 ``` php
-use OpenBuildings\Monetary\Monetary;
+use Sooyoos\Monetary\Monetary;
 ```
 
 then just convert and format currencies:
