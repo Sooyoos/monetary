@@ -1,5 +1,5 @@
 {
-	"name": "openbuildings/monetary",
+	"name": "sooyoos/monetary",
 	"description": "Useful tool for formatting and converting currencies",
 	"keywords": [
 		"monetary",
@@ -10,25 +10,21 @@
 		"ECB",
 		"Yahoo"
 	],
-	"homepage": "https://github.com/OpenBuildings/monetary",
+	"homepage": "https://github.com/Sooyoos/monetary",
 	"license": "BSD-3-Clause",
 	"authors": [
 		{
-			"name": "Yasen Yanev",
-			"email": "yasen@openbuildings.com"
+			"name": "Benjamin J",
+			"email": "benjamin@sooyoos.com"
 		},
 		{
-			"name": "Ivan Kerin",
-			"email": "ivan@openbuildings.com"
-		},
-		{
-			"name": "Haralan Dobrev",
-			"email": "hdobrev@despark.com"
+			"name": "Alexandre Vagnair",
+			"email": "alexandre.vagnair@sooyoos.com"
 		}
 	],
 	"support": {
-		"issues": "https://github.com/OpenBuildings/monetary/issues",
-		"source": "https://github.com/OpenBuildings/monetary"
+		"issues": "https://github.com/Sooyoos/monetaryissues",
+		"source": "https://github.com/Sooyoos/monetary"
 	},
 	"require": {
 		"php": ">=5.3.0",
@@ -41,7 +37,7 @@
 	},
 	"autoload": {
 		"psr-0": {
-			"OpenBuildings\\Monetary\\": "src/"
+			"Sooyoos\\Monetary\\": "src/"
 		}
 	}
 }
